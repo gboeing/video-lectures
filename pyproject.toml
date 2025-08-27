@@ -6,7 +6,7 @@ dependencies = [
     "geopy==2.4.*",
     "jupyterlab==4.4.*",
     "mapclassify==2.10.*",
-    "numpy==2.3.*",
+    "numpy==2.0.*",
     "osmnx[all]==2.0.*",
     "pandas==2.3.*",
     "requests==2.32.*",

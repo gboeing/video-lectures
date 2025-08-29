@@ -1,5 +1,6 @@
 .DS_Store
 keys.py
+videos/*
 modules/*/cache/*
 uv.lock
 *.pdf
